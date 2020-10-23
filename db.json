@@ -1,32 +1,32 @@
 {
     "offices": [
       {
-          "address": "MARKAS GURITA",
+          "address": "Jln Gurita",
           "id": "1",
           "image": "https://www.greeners.co/wp-content/uploads/2017/04/Fauna-Gurita-Fauna-Cerdas-dari-Dasar-Laut.jpg",
           "lat": -8.704841,
           "lng": 115.217854,
-          "name": "gurita",
+          "name": "MARKAS GURITA",
           "phone": "",
           "region": "denpasar"
       },
       {
-          "address": "MARKAS BATANGHARI",
+          "address": "Jln Tukad Batanghari",
           "id": "2",
           "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/2b/b7/ff/the-mansion-house-hotel.jpg",
           "lat": -8.680151,
           "lng": 115.230762,
-          "name": "batanghari",
+          "name": "MARKAS BATANGHARI",
           "phone": "",
           "region": "denpasar"
       },
       {
-          "address": "MARKAS SEDAP MALAM",
+          "address": "Jln Sedap Malam",
           "id": "3",
           "image": "https://cf.shopee.co.id/file/9f694d317b98ea4febace2bff9f2c380",
           "lat": -8.667651,
           "lng": 115.246941,
-          "name": "sedap-malam",
+          "name": "MARKAS SEDAP MALAM",
           "phone": "",
           "region": "denpasar"
       }
